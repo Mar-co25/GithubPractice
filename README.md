@@ -99,7 +99,7 @@ Una gran ventaja de trabajar con un sistema de control de versiones como git es 
 
 Si por algo ya escribiste algo en app.js podemos descartar estos cambios simplemente dando clic derecho sobre el cambio y seleccionando "Discard Changes". Revisa tu archivo nuevamente. Deberías notar que el archivo queda nuevamente vacío.
 
-### Revertir ERROR!!!
+### Revertir
 
 A veces, no detectamos un error hasta después de haberlo confirmado con un commit, vamos a poner algo en app.js y darle commit, quizá incluso podemos agregar un código inservible.
 
